@@ -8,12 +8,12 @@ body {
 }
 
 h1 {
-  background-color: rgb(221, 215, 203);
-  color: hsl(147, 33%, 86%);
+  background-color: green;
+  color: mintcream;
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: rgb(131 7 131);
+  background-color: purple;
 }
